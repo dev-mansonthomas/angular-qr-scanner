@@ -3,6 +3,8 @@ angular-qr-scanner-updated
 
 Based on angular-qr-scanner which is no longer maintained.
 
+This library allow you to use the webcam to decode a QRCode.
+
 Angular directive for a QR Scanner. It is the angular version of [html5-qrcode](https://github.com/dwa012/html5-qrcode) and uses [jsqrcode](https://github.com/LazarSoft/jsqrcode).
 
 Check out the [live demo](http://sembrestels.github.io/angular-qr-scanner/), it may still be working.

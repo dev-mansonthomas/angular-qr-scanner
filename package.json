@@ -1,13 +1,13 @@
 {
   "name": "angular-qr-scanner-updated",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-uglify": "~0.9.1",
     "grunt-contrib-watch": "~0.6.1"
   },
   "dependencies": {
-    "angular": "~1.6.9",
+    "angular": "~1.7.5",
     "jsqrcode": "0.0.6"
   },
   "main": "qr-scanner-u.js"

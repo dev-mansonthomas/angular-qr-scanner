@@ -1,6 +1,6 @@
 {
   "name": "angular-qr-scanner-updated",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://github.com/sembrestels/angular-qr-scanner",
   "authors": [
     "Thomas <dev.mansonthomas@gmail.com>"
@@ -24,6 +24,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": ">=1.6.9"
+    "angular": ">=1.7.5"
   }
 }
